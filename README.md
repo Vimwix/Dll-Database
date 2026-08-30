@@ -20,11 +20,11 @@ Vimwix is not responsible for any damage caused by the malware inside this repos
 
 All samples within this repository are structured by malware category and functionality:
 
-* Malware-DLLs/RAT/ : Remote Access Trojans designed for remote system control and monitoring.
-* Malware-DLLs/Stealer/ : Infostealers targeting browser credentials, session cookies, and local data.
-* Malware-DLLs/CryptoClipper/ : Clipboard hijackers monitoring and replacing cryptocurrency addresses.
+* `Malware-DLLs/RAT/` : Remote Access Trojans designed for remote system control and monitoring.
+* `Malware-DLLs/Stealer/` : Infostealers targeting browser credentials, session cookies, and local data.
+* `Malware-DLLs/CryptoClipper/` : Clipboard hijackers monitoring and replacing cryptocurrency addresses.
 
-Archive Access Password: infected
+Archive Access Password: `infected`
 
 ---
 
