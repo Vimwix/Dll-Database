@@ -1,6 +1,4 @@
-<img src="https://github.com/user-attachments/assets/47a96238-2435-45d6-a1c3-275dbe67bd32" width="250" style="border-radius: 20px;" alt="Malware Database Banner">
-
-
+<kbd><img src="https://github.com/user-attachments/assets/4c09e764-c56e-48e1-a75c-4fe9e6bd5dcc" width="250" alt="Malware Database Banner"></kbd>
 
 # Malware DLL Database
 
